@@ -44,7 +44,7 @@ console.log(person.address.city)
 // Arrays
 
 let fruites = ["Apple", "mango", "cucumber", "orange"]
-fruites.unshift("Guava")
+fruites.push("Guava")
 console.log(fruites)
 
 // Bolean
